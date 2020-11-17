@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FictionBookMarks>
+  <file>
+    <file-info>
+      <doc-title>Крысиная башня-2</doc-title>
+      <doc-author>Павел  Дартс</doc-author>
+      <doc-series>Крысиная башня #2</doc-series>
+      <doc-filename>крысиная башня 2.fb2</doc-filename>
+      <doc-filepath>/storage/hdd1/telegram/</doc-filepath>
+      <doc-filesize>4323767</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="5.21%" timestamp="1602967267" shortcut="0" page="0">
+        <start-point>/FictionBook/body/section[2]/section[5]/title/p/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Крысиная башня</doc-title>
+      <doc-author>Павел  Дартс</doc-author>
+      <doc-series/>
+      <doc-filename>крысиная башня.fb2</doc-filename>
+      <doc-filepath>/storage/hdd1/telegram/</doc-filepath>
+      <doc-filesize>2856924</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="99.01%" timestamp="1602960311" shortcut="0" page="0">
+        <start-point>/FictionBook/body/section[60]/p[17]/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Крысиная башня-2</doc-title>
+      <doc-author>Павел  Дартс</doc-author>
+      <doc-series>Крысиная башня #2</doc-series>
+      <doc-filename>pavel_darts-krisinaya_bashnya-2-1533405656.fb2.zip</doc-filename>
+      <doc-filepath>/storage/hdd1/telegram/</doc-filepath>
+      <doc-filesize>1537180</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="1.02%" timestamp="1602693415" shortcut="0" page="0">
+        <start-point>/FictionBook/body/section[2]/section[2]/p[41]/text().188</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Чума заклинаний</doc-title>
+      <doc-author>Брюс Р. Корделл</doc-author>
+      <doc-series>Господство аболетов #1</doc-series>
+      <doc-filename>rus_Cordell_-_Plague_of_Spells.fb2</doc-filename>
+      <doc-filepath>/storage/hdd1/telegram/</doc-filepath>
+      <doc-filesize>1177658</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.00%" timestamp="1602615245" shortcut="0" page="0">
+        <start-point>/FictionBook/description/title-info/genre/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+  <file>
+    <file-info>
+      <doc-title>Крысиная башня</doc-title>
+      <doc-author>Павел  Дартс</doc-author>
+      <doc-series/>
+      <doc-filename>pavel_darts-krisinaya_bashnya-1491787875.fb2.zip</doc-filename>
+      <doc-filepath>/storage/hdd1/telegram/</doc-filepath>
+      <doc-filesize>833619</doc-filesize>
+    </file-info>
+    <bookmark-list>
+      <bookmark type="lastpos" percent="0.00%" timestamp="1602613327" shortcut="0" page="0">
+        <start-point>/FictionBook/description/title-info/annotation/p/text().0</start-point>
+        <end-point/>
+        <header-text/>
+        <selection-text/>
+        <comment-text/>
+      </bookmark>
+    </bookmark-list>
+  </file>
+</FictionBookMarks>
