@@ -1,0 +1,12 @@
+name: update servers
+hosts: all
+become: yes
+tasks:
+  - name: task ping
+    ping:
+  - name: update_cache
+    apt:
+      update_cache: yes
+  - name: upgrade
+    apt:
+      upgrade: yes
