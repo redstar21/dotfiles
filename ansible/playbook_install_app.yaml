@@ -1,0 +1,15 @@
+- name: install_app
+  hosts: all
+  become: yes
+
+  vars:
+    pakages:
+     - htop
+     - mc
+     - vim
+  tasks:
+    - name: install app
+      apt:
+        pkg: "{{pakages}}"
+        state: latest
+      
