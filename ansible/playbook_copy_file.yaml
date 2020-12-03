@@ -1,0 +1,12 @@
+- name: copyfile
+  hosts: all
+  become: yes
+
+  tasks:
+
+  - name:
+    copy:
+      src: /storage/hdd1/downloads/test
+      dest: /root/
+      mode: 0700
+
