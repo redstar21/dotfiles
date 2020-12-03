@@ -7,9 +7,17 @@
      - htop
      - mc
      - vim
+    file_src: /home/stayasinic/hdd1_temp/git/dotfiles/file123
+    file_dest: /root
+  
   tasks:
     - name: install app
       apt:
         pkg: "{{pakages}}"
         state: latest
       
+    - name: copy file
+      copy:
+        src: "{{file_src}}"
+        dest: "{{file_dest}}"
+        mode: 0777
