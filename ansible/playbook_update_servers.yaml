@@ -1,5 +1,5 @@
 - name: update servers
-  hosts: all
+  hosts: wiki 
   become: yes
   tasks:
     - name: task ping
